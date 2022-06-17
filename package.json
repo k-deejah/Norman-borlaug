@@ -1,0 +1,22 @@
+{
+  "name": "norman-borlaug",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-deejah/Norman-borlaug.git"
+  },
+  "author": "khadijah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-deejah/Norman-borlaug/issues"
+  },
+  "homepage": "https://github.com/k-deejah/Norman-borlaug",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
