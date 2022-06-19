@@ -110,7 +110,13 @@
     background-color: aliceblue;
     background-repeat: no-repeat;
     background-size: auto;
+}.footer__11{
+    text-align:center;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
+
 .footer__2{
     text-align:center;
     background-color: aliceblue;
@@ -122,6 +128,16 @@
     background-color:aliceblue;
     background-repeat: no-repeat;
     background-size: auto;
+}.footer__12{
+    text-align:center;
+    background-color:aliceblue;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+    appearance: none;
 }
 footer{
     background-color: aliceblue;
