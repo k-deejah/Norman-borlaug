@@ -1,2 +1,2 @@
 # Norman-borlaug
-https://k-deejah.github.io/Norman-borlaug/
+https://k-deejah.github.io/Norman-borlaug.com/
